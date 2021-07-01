@@ -4,7 +4,7 @@ background-image: url("../images/pastel-shapes.jpg");
 }
 
 h1 {
-    color: black;
+    color: purple;
     font-size: 45px;
 }
 
@@ -14,7 +14,7 @@ h1 {
     width: 80px;
     height: 52px;
     margin: auto;
-    border: 1px solid gray;
+    border: 1px solid purple;
     border-radius: 6px;
     font-size: 30px;
     text-align: center;
@@ -25,14 +25,14 @@ h1 {
     box-sizing: border-box;
     width: 95px;
     height: 40px;
-    border: 1px solid darkgray;
+    border: 1px solid purple;
     margin: auto;
     border-radius: 4px;
     font-family: Verdana, 
         Geneva, Tahoma, sans-serif;
 
-    background-color: darkgray;
-    color: black;
+    background-color: purple;
+    color: white;
     font-size: 20px;
     cursor: pointer;
 }
@@ -42,7 +42,7 @@ h1 {
     font-family: Verdana, 
         Geneva, Tahoma, sans-serif;
 
-    color: black;
+    color: purple;
     font-size: 20px;
 }
 
@@ -55,6 +55,6 @@ h1 {
 #ins {
     font-family: Verdana, 
     Geneva, Tahoma, sans-serif;
-    color:  black;
+    color:  purple;
     font-size: 17px;
 }
