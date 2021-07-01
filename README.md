@@ -21,7 +21,7 @@
 9. [Credits](#credits)
 
 ## Description
-A two-player tic tac toe game using HTML CSS & javaScript
+A two-player tic-tac-toe game using HTML CSS & javaScript
 
 ## Installation
 None
@@ -33,18 +33,18 @@ click on a box to begin
 MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Image
-![screenshot](https://github.com/Mannyalfa/canvas-spirograph/blob/main/assets/images/screenshot.jpg)
+![screenshot](https://github.com/Mannyalfa/tic-tac-toe/blob/main/assets/images/screenshot.jpg)
 
 ## Languages/Applications
 HTML,CSS,JavaScript
 
 ## Repository URL
-https://github.com/Mannyalfa/canvas-spirograph 
+https://github.com/Mannyalfa/tic-tac-toe 
 
 ## Test
 
 ## Website
-https://mannyalfa.github.io/canvas-spirograph/
+https://mannyalfa.github.io/tic-tac-toe/
    
     
 ## Credits
