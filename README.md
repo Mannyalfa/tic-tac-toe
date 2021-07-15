@@ -1,4 +1,4 @@
-# Canvas Spirograph
+# Tic Tac Toe
   
 ## Table of Contents
 
